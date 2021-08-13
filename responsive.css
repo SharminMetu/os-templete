@@ -1,0 +1,72 @@
+@media screen and (max-width: 720px) {
+i{
+    font-size: large;
+
+}
+.small_image{
+    float: none;
+    text-align: center;
+}
+.profiles span{
+    text-align: center;
+    width: 100%;
+}
+.profiles p{
+    font-size: small;
+    color: #888;
+    text-align: justify;
+}
+.profiles a{
+    font-size: smaller;
+}
+.card_wrapper{
+    width: 100%;
+    text-align: center;
+    background-color: #ddd;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+.card_wrapper img{
+    width: 4rem;
+    
+}
+.card_wrapper p{
+text-align: center;
+margin: auto;
+width: 20rem;
+color: #777;
+
+}
+.card_wrapper a{
+    text-align: center;
+    color: blue;
+    width: 30rem;
+    font-size: .8rem;
+}
+.workes{
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+   
+}
+section#latest_work {
+    background: #efd1d4;
+}
+.location {
+    text-align: left;
+    padding: 2rem;
+    font-size: .8rem;
+    text-transform: capitalize;
+    background: #c9ced0;
+
+}
+.span {
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    padding: 1rem;
+}
+.copyright2,.copyright1{
+    display: block;
+    text-align: center;
+}
+}
